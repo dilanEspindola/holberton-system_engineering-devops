@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -ruv *.htmk /tmp
+cp -ruv *.html /tmp
