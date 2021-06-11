@@ -1,0 +1,2 @@
+#!/bin/bash
+cp -ruv *.html /holberton-system_engineering_devops/
