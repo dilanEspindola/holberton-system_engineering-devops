@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -ruv *.html /tmp
+cp -ruv *.html ../
